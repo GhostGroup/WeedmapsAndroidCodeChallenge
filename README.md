@@ -17,7 +17,8 @@ Register and get a token for the Yelp Fusion API [https://www.yelp.com/developer
 
 ## Requirements
 
- 1.You will be building a simple search expereince using the yelp API. [here](https://www.figma.com/file/vcfmVmKtPf4hPwIm12jfQ5/Android-Homework?node-id=2%3A9). The data will be coming from the Yelp api linked below. Your application should return businesses based on the user's input in the search field. 
+ 1. You will be building a simple search expereince using the yelp API. [here](https://www.figma.com/file/vcfmVmKtPf4hPwIm12jfQ5/Android-Homework?node-id=2%3A9). The data will be coming from the Yelp api linked below. Your application should return businesses based on the user's input in the search field. 
+
  2. Each business you show in the list should include: **name of the business**, **an image of the business**, and **the top review of the business(reference [here](https://www.yelp.com/developers/documentation/v3/business_reviews) for how to get the business review)**.
  
  ### If you are apply for a senior role, you must also: 
